@@ -1,0 +1,14 @@
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\bin\Debug\net6.0\OOPZooHw.exe
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\bin\Debug\net6.0\OOPZooHw.deps.json
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\bin\Debug\net6.0\OOPZooHw.runtimeconfig.json
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\bin\Debug\net6.0\OOPZooHw.dll
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\bin\Debug\net6.0\OOPZooHw.pdb
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.AssemblyInfo.cs
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.dll
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\refint\OOPZooHw.dll
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.pdb
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\OOPZooHw.genruntimeconfig.cache
+C:\Users\Nyekruh\source\repos\OOPZooHw\OOPZooHw\obj\Debug\net6.0\ref\OOPZooHw.dll
